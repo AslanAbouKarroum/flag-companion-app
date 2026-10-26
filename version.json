@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "versionCode": 11108,
+  "apkUrl": "https://github.com/AslanAbouKarroum/flag-companion-app/releases/latest/download/Flag_Companion_Mod.apk",
+  "title": "Flag Companion Update",
+  "notes": "Ad-free experience, non-blocking HUD at top with drag support, and in-app update checks.",
+  "forceUpdate": false
+}
